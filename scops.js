@@ -45,7 +45,8 @@
 //
 // const secondVerdict = `The murderer is ${murderer}.`;
 // console.log('Second Verdict: ', secondVerdict);
-// //murderer = Mrs.Peacock? second verdict is not assign within function
+// // //First Verdict:  The murderer is Mrs. Peacock.
+// //Second Verdict:  The murderer is Professor Plum.
 
 
 
